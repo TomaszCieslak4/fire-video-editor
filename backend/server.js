@@ -6,7 +6,7 @@ var db;
 const CLIENT_ID =
   "956647101334-784vc8rakg2kbaeil4gug1ukefc9vehk.apps.googleusercontent.com";
 const uri =
-  "mongodb+srv://dbUser:fire@2021@fire.fojp1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+  "mongodb+srv://user1:5ADQGRUhhm2N53gn@cluster0.nbzyi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 const { OAuth2Client } = require("google-auth-library");
 const loginClient = new OAuth2Client(CLIENT_ID);
