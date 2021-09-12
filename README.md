@@ -8,10 +8,11 @@ The online video editor Clipchamp, developed in 2012 is fully functional and is 
 The competition did not focus on the keyframe aspect of the editor most likely because they expect their user-base to not be experienced enough to use that specific feature. Allowing keyframing involves setting attributes of position and time and interpolating between them to insert images onto a video. This feature allows for the possibility for animation and transition.
 
 # Workflow, Design & Planning
-<object>
-<iframe src="http://docs.google.com/gview?url=http://example.com/mypdf.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
-
-</object>
+<img src="doc\sprint4\designDocPdf\System Design Document (1)-1.jpg"/>
+<img src="doc\sprint4\designDocPdf\System Design Document (1)-3.jpg"/>
+<img src="doc\sprint4\designDocPdf\System Design Document (1)-4.jpg"/>
+<img src="doc\sprint4\designDocPdf\System Design Document (1)-5.jpg"/>
+<img src="doc\sprint4\designDocPdf\System Design Document (1)-6.jpg"/>
 
 A more detailed outline of the workflow and planning for this project can be found in the [doc](https://github.com/TomaszCieslak4/fire-video-editor/tree/main/doc) subdirectory.
 # Contributors
